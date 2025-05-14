@@ -181,15 +181,6 @@ class FullStackOverlord {
             '🧹 Clean up console.logs before PR'
         ];
     }
-
-    showStats() {
-        return {
-            name: this.name,
-            skillsUnlocked: this.skills.length,
-            bugsDefeated: this.bugsSquashed,
-            caffeineIntake: `${110 - this.energyLevel}%`,
-        };
-    }
 }
 
 
