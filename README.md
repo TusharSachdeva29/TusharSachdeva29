@@ -122,9 +122,9 @@
 
 ## 🤝 Connect with me 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tushar-sachdeva-573891287/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-sagar" height="30" width="40"/></a>
-//   <a href="https://www.instagram.com/sumitsagarrr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitsagarrr" height="30" width="40"/></a>
-  <a href="sachdevatushar81@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="sumitsagarrr" height="29" width="35"/></a>
+  <a href="https://www.linkedin.com/in/tushar-sachdeva-573891287/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar-sachdeva" height="30" width="40"/></a>
+
+  <a href="sachdevatushar81@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="TusharSachdeva" height="29" width="35"/></a>
 </p>
 
 ```javascript
