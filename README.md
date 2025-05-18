@@ -127,66 +127,6 @@
   <a href="sachdevatushar81@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="TusharSachdeva" height="29" width="35"/></a>
 </p>
 
-```javascript
-class FullStackOverlord {
-    constructor() {
-        this.name = 'Tushar "Debugger Slayer" Sachdeva';
-        this.title = 'Supreme Full Stack Sorcerer 🧙‍♂️';
-        this.skills = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Node.js', 'MongoDB', 'MySQL'];
-        this.bugsSquashed = 0;
-        this.energyLevel = 100;
-        this.stackOverflowTabs = 0;
-    }
-
-    deployToProduction() {
-        if (Math.random() < 0.9) {
-            console.log('🚀 Deployment successful... for now');
-        } else {
-            throw new Error('🔥 Production exploded. Rolling back...');
-        }
-    }
-
-    debugUntilMidnight() {
-        this.stackOverflowTabs += 37;
-        this.energyLevel -= 20;
-        this.bugsSquashed += Math.floor(Math.random() * 5);
-        return `😵‍💫 Debugging complete. Tabs open: ${this.stackOverflowTabs}, Energy left: ${this.energyLevel}`;
-    }
-
-    async learnFramework(framework) {
-        console.log(`📚 Summoning documentation scrolls for ${framework}...`);
-        await this.stareBlankly();
-        console.log(`💡 Ah! Enlightenment achieved in ${framework}`);
-        this.skills.push(framework);
-    }
-
-    stareBlankly() {
-        return new Promise(resolve => setTimeout(() => {
-            console.log('🧠 Brain buffering...');
-            resolve();
-        }, 2000));
-    }
-
-    attendMeeting() {
-        console.log('🙃 Pretending to understand requirements...');
-        return '✅ Nodded 7 times. Muted mic. Victory.';
-    }
-
-    getDailyRoutine() {
-        return [
-            '💻 Write code',
-            '🐛 Introduce bug',
-            '🧪 Write tests that mysteriously pass',
-            '🧘‍♂️ Blame cache',
-            '🧹 Clean up console.logs before PR'
-        ];
-    }
-}
-
-
-console.log('🚀 Ready to create amazing things!');
-```
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   <br><br>
