@@ -30,8 +30,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** who loves building web applications and exploring new technologies.
 
-- 🔭 Currently working on ** Pravah, a Codeforces-based LeetCode-like platform — with rating-based POTD, real-time editor, and building code editor from scratch.**
-- 🌱 Learning **DevOps , scalability and Web3/Blockchain**
+- 🔭 Currently working on nothing..🫠
+- 🌱 Learning **DevOps , System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
 - 🎯 Goal: Contribute more to Open Source
