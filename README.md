@@ -30,7 +30,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** who loves building web applications and exploring new technologies.
 
-- 🔭 Currently working in a startup ignition-minds 
+<!-- - 🔭 Currently working in a startup ignition-minds -->
 - 🌱 Learning **DevOps , System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
