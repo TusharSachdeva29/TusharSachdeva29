@@ -35,7 +35,7 @@
 - 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
 - 🎯 Goal: Contribute more to Open Source
 - 📫 Reach me at: [sachdevatushar81@gmail.com](mailto:sachdevatushar81@gmail.com)
-- 💼 Portfolio: [Dive here!](https://mad-monk29.vercel.app/)
+- 💼 Portfolio: [Dive here!](https://tushar-sachdeva.in)
 - 😄 Pronouns: I prefer he/him
 
 ## 📊 GitHub Stats
