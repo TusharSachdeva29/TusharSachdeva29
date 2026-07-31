@@ -28,7 +28,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px">I’m Tushar, a 3rd-year CSAI student at NSUT with a builder’s mindset and a full-stack skillset. From Collaborative-text-editor to game (pacman) in C++ to in-browser IDEs (Code-X) to Publishing Research Paper (Skin Cancer Detection), I love creating projects that merge engineering depth with real-world impact.
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px">I’m Tushar, a 4th-year CSAI student at NSUT with a builder’s mindset and a full-stack skillset. From Collaborative-text-editor to game (pacman) in C++ to in-browser IDEs (Code-X) to Publishing Research Paper (Skin Cancer Detection), I love creating projects that merge engineering depth with real-world impact.
 <!-- - 🔭 Currently working in a startup ignition-minds -->
 - 🌱 Currently exploring **DevOps**, **Deep Learning**, and **scalable backend systems**.
 - 👯 Looking to collaborate on **Open Source Projects**
